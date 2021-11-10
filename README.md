@@ -8,7 +8,9 @@ and so there was a closet PACKED with random stuff.
 
 The first machine I built was for playing [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game); but learning about the hardware and fitting parts together was incredibly interesting itself, and I've been having fun with computers ever since!
 
-When I'm not getting lost looking for new web applications to [self-host](https://github.com/awesome-selfhosted/awesome-selfhosted), I'm playing videogames, hiking, disc golfing, fishing, or trying some other new hobby.
+I've picked up some Javascript and make use of Node, Express, MySQL, MongoDB, React, and more.
+
+When I'm not getting lost learning something new or looking for web applications to [self-host](https://github.com/awesome-selfhosted/awesome-selfhosted), I'm playing videogames, hiking, disc golfing, fishing, or trying some other new hobby.
 
 <!--
 **FaceToKeyboard/FaceToKeyboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
