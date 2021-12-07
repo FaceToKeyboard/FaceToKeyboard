@@ -6,7 +6,7 @@ I've always been interested in tech - some of my earliest memories come from pla
 My uncle worked as a repair technician, and often brought home parts that were going to be disposed of/recycled: CPUs, motherboards, hard drives, cases, mice, keyboards, etc.,
 and so there was a closet PACKED with random stuff.
 
-The first machine I built was for playing [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game); but learning about the hardware and fitting parts together was incredibly interesting itself, and I've been having fun with computers ever since!
+The first machine I built was for playing [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game)); but learning about the hardware and fitting parts together was incredibly interesting itself, and I've been having fun with computers ever since!
 
 I've picked up some Javascript and make use of Node, Express, MySQL, MongoDB, React, and more.
 
